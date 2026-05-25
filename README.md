@@ -46,16 +46,14 @@ Mich interessieren vor allem **KI im Arbeitsalltag**, **Ninox‑Datenbanken** un
 
 #### &nbsp;·&nbsp; Zeitabrechnung
 Browser‑Anwendung zur Personal­zeit­erfassung und ‑abrechnung. Im produktiven Einsatz.
-
-🔗 [zeit.benjahn.de](https://zeit.benjahn.de)
+*Intern, nicht öffentlich.*
 
 </td>
 <td width="50%" valign="top">
 
 #### &nbsp;·&nbsp; JSON‑Vergleich
 Schlankes Tool zum visuellen Diff zweier JSON‑Strukturen. Browser‑basiert, ohne Backend.
-
-🔗 [json.benjahn.de](https://json.benjahn.de) · [Repository](https://github.com/Bero-Ben/json-vergleich)
+*Intern, nicht öffentlich.*
 
 </td>
 </tr>
