@@ -20,9 +20,9 @@
 
 ## Über mich
 
-IT‑Entwickler und IT‑Verantwortlicher in einem deutschen Mittelstands­unternehmen der Stanztechnik. Ich verbinde Werkstattlogik mit moderner Software — präzise, wartbar, dokumentiert.
+Leiter eines mittelständischen Werkzeugbau­betriebs und seit vielen Jahren leidenschaftlicher Hobby‑Entwickler. Im Hauptberuf am Werkstück, in der Freizeit am Code — und immer öfter dazwischen.
 
-Aus dem Maschinenraum eines KMU heraus baue ich Datenbanken, Server­landschaften und Automatisierungen, die im Alltag tragen. Das Leitmotiv ist immer dasselbe wie im Werkzeugbau: **die richtige Form, das richtige Maß, kein Spiel an den falschen Stellen.**
+Mich interessieren vor allem **KI im Arbeitsalltag**, **Ninox‑Datenbanken** und alles rund um **eigene Server** — vom Aufsetzen bis zum täglichen Betrieb. Aus diesen Themen entstehen Tools, n8n‑Workflows und kleine Apps, die ich für den eigenen Betrieb baue. Mein Anliegen: **Automatisierung und Digitalisierung im Werkzeugbau** — dort, wo gewachsene Prozesse und moderne Software bisher selten zusammenfinden.
 
 <br />
 
@@ -30,6 +30,7 @@ Aus dem Maschinenraum eines KMU heraus baue ich Datenbanken, Server­landschafte
 
 | | |
 |---|---|
+| **KI & Automatisierung** | LLM‑Integration, Claude / Anthropic‑Workflows, KI‑gestützte Tools für den Arbeitsalltag |
 | **Server‑Administration** | Linux‑Server (Ubuntu), Hetzner‑Infrastruktur, Docker, Reverse‑Proxy, Backups, Monitoring |
 | **Datenbank‑Entwicklung** | Ninox‑ERP‑Systeme, Postgres, Migration von Low‑Code zu Standalone‑Anwendungen |
 | **Workflow‑Automatisierung** | n8n, Make.com, API‑Integrationen, Skript‑Pipelines |
@@ -58,18 +59,21 @@ Schlankes Tool zum visuellen Diff zweier JSON‑Strukturen. Browser‑basiert, o
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### &nbsp;·&nbsp; ERP‑System
+Eigenständiges ERP für den Werkzeugbau — Ablösung gewachsener Low‑Code‑Strukturen. *Intern, nicht öffentlich.*
+
+</td>
+<td width="50%" valign="top">
+
+#### &nbsp;·&nbsp; Standortkarte
+Dynamische Karte aus Adress­datensätzen — visualisiert Kunden, Lieferanten und Standorte. *Intern, nicht öffentlich.*
+
+</td>
+</tr>
 </table>
-
-<br />
-
-## Werkzeuge & Skills für Claude Code
-
-Öffentliche Skills und Playbooks, die ich pflege:
-
-- **[ninox-skill](https://github.com/Bero-Ben/ninox-skill)** — Expert‑Skill für Ninox‑Datenbank‑Scripting (Whitelist‑Ansatz gegen Halluzinationen)
-- **[make-skill](https://github.com/Bero-Ben/make-skill)** — Make.com Automation‑Platform: Module, Expressions, Blueprints, API
-- **[n8n-skill](https://github.com/Bero-Ben/n8n-skill)** — Sammlung von n8n‑Skills (Code, Expressions, Node‑Config, Workflow‑Patterns)
-- **[ninox-to-standalone-playbook](https://github.com/Bero-Ben/ninox-to-standalone-playbook)** — Methodik zum Umbau von Ninox‑Datenbanken auf eigenständige Web­anwendungen
 
 <br />
 
